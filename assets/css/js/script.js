@@ -1,4 +1,5 @@
 // Assignment code here
+window.alert ("Click 'Generate Password' to generate a passowrd");
 
 
 // Get references to the #generate element
